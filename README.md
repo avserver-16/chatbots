@@ -4,7 +4,6 @@ This repository contains a collection of chatbot projects built using Large Lang
 
 ## What's Inside
 
-* Document & Terms/Conditions Summarizers
 * RAG-based Chatbots
 * Local LLM Applications
 * Knowledge Base Assistants
